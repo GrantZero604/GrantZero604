@@ -4,6 +4,7 @@
 
 - 🔗 **LinkedIn:** [brambrinkmeier](https://www.linkedin.com/in/brambrinkmeier/)
 - 📝 **Writeups:** [security research & CTF writeups](https://github.com/GrantZero604/security-writeups)
+- 🛡️ **Microsoft Sentinel:** my [MFA fatigue detection](https://github.com/Azure/Azure-Sentinel/blob/master/Detections/SigninLogs/MFAPromptBurstFromSingleIP.yaml) is merged into the official Azure-Sentinel repository ([how to use and tune it](https://brambrinkmeier.com/guides/detect-mfa-fatigue-entra-id/))
 - 🌐 **Website:** [brambrinkmeier.com](https://brambrinkmeier.com/)
 
 **Focus right now:** detection-and-response engineering (SIEM/SOAR, security automation) on a Microsoft foundation, plus offensive identity — Entra attack paths, consent-grant abuse, service principal abuse.
