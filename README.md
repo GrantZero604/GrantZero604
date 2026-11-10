@@ -1,10 +1,12 @@
-# Bram Brinkmeier — `grantzero`
+# Bram Brinkmeier
 
-**Cloud & Identity Security Engineer.** Microsoft identity and detection-and-response by day — Entra ID, Conditional Access, Defender XDR, Sentinel, Intune. Offensive side by inclination: Entra/identity attack paths and web exploitation, always authorized and lab-based.
+Cloud & Identity Security Engineer. Belgian, living in Germany.
+I work on Microsoft Entra ID, Conditional Access and Sentinel detection rules in KQL.
 
-- 🔗 **LinkedIn:** [brambrinkmeier](https://www.linkedin.com/in/brambrinkmeier/) · **X:** [@brambrinkmeier](https://x.com/brambrinkmeier)
-- 📝 **Writeups:** [security research & CTF writeups](https://github.com/GrantZero604/security-writeups) · 🏆 best write-up award, [Intigriti challenge 1026](https://brambrinkmeier.com/writeups/halloween-store-intigriti-1026/)
-- 🛡️ **Microsoft Sentinel:** my [MFA fatigue detection](https://github.com/Azure/Azure-Sentinel/blob/master/Detections/SigninLogs/MFAPromptBurstFromSingleIP.yaml) is merged into the official Azure-Sentinel repository ([how to use and tune it](https://brambrinkmeier.com/guides/detect-mfa-fatigue-entra-id/))
-- 🌐 **Website:** [brambrinkmeier.com](https://brambrinkmeier.com/)
+- [Entra error reference](https://brambrinkmeier.com/entra/): 118 `AADSTS` code pages. 43 are for codes Microsoft's reference does not list (checked Nov 2026). I reproduced 35 in a lab tenant. Every page has KQL.
+- Authlib advisory [GHSA-f7j6-p4qx-gq99](https://github.com/authlib/authlib/security/advisories/GHSA-f7j6-p4qx-gq99): co-credited reporter.
+- [HKCERT CTF 2026 qualifier](https://brambrinkmeier.com/writeups/401-authorized-beta-hkcert-1126/): 116th of 1,117 scored teams.
+- Intigriti challenge 1026: my [Halloween Store write-up](https://brambrinkmeier.com/writeups/halloween-store-intigriti-1026/) was picked as a write-up winner.
+- My Sentinel rule for repeated failed MFA was merged: [Azure-Sentinel PR #15432](https://github.com/Azure/Azure-Sentinel/pull/15432).
 
-**Focus right now:** detection-and-response engineering (SIEM/SOAR, security automation) on a Microsoft foundation, plus offensive identity — Entra attack paths, consent-grant abuse, service principal abuse.
+[brambrinkmeier.com](https://brambrinkmeier.com) · [LinkedIn](https://www.linkedin.com/in/brambrinkmeier/) · [X](https://x.com/brambrinkmeier) · [Writeups repo](https://github.com/GrantZero604/security-writeups)
